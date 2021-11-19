@@ -1,0 +1,5 @@
+venv
+Pipfile.lock
+.DS_Store
+.gitattributes
+.idea
