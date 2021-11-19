@@ -17,4 +17,4 @@ deploy job:
   script:
     - apt-get update -qy
     - apt-get install curl -y
-    - curl huseinhouse.com:9060/reload?password=husein123
+    - curl watcharap0n.com:9060/reload?password=husein123
