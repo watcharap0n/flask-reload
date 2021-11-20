@@ -3,3 +3,6 @@ Pipfile.lock
 .DS_Store
 .gitattributes
 .idea
+tests/__pycache__/conftest.cpython-39-pytest-6.2.5.pyc
+tests/__pycache__/test_api.cpython-39-pytest-6.2.5.pyc
+web/__pycache__/app.cpython-39.pyc
